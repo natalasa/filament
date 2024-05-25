@@ -1,5 +1,5 @@
-<svg viewBox="0 0 138 26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 0 138 26" fill="currentColor" xmlns="http://www.w3.org/2000/svg"
+    class="h-full text-gray-700 dark:text-gray-200">
     <defs>
         <linearGradient id="gradient-2" bx:pinned="true">
             <stop offset="0" style="stop-color: rgb(146, 250, 251);"></stop>
